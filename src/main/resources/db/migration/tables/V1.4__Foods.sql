@@ -1,0 +1,1 @@
+alter table food add column color varchar(45) default '' null

@@ -1,0 +1,1 @@
+create view todoView AS select * from todo;
